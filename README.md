@@ -22,7 +22,7 @@ The project is organized into the following structure:
 1. Clone this repository:
 
 ```bash
-git clone git@github.com:shahadulhaider/datashaper.git
+git clone git@github.com:shahadulhaider/dataprofiler.git
 ```
 2. Navigate to project Directory
 
