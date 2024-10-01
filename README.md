@@ -1,4 +1,4 @@
-# Data Shapper API Service 
+# Data Profiler API Service 
 
 This is a FastAPI-based API for data profiling. It provides endpoints to perform data profiling, data cleansing, data manipulation, analytics and generate reports, and download them.
 
@@ -28,7 +28,7 @@ git clone git@github.com:shahadulhaider/dataprofiler.git
 
 
 ```bash
-cd datashaper
+cd dataprofiler
 ```
 
 3. Set up Virtual Environment:
